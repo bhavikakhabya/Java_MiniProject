@@ -77,7 +77,7 @@ public class FoodDeliverySystem {
                 new Dimension(900, 80));
 
         JLabel title = new JLabel(
-                "🍔  FOOD DELIVERY SYSTEM");
+                "FOOD DELIVERY SYSTEM");
 
         // BLACK TEXT
         title.setForeground(Color.BLACK);
